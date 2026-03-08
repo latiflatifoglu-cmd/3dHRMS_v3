@@ -1,0 +1,6 @@
+## Pages
+- [- 3dHR](/login): No description available
+- [- 3dHR](/signup): No description available
+- [3dHR - Geleceğin İK Platformu](/landing): Yapay zeka destekli, kapsamlı insan kaynakları yönetim platformu.
+- [Untitled Page](/unauthorized): No description available
+- [Yeni Şifre Belirle - 3dHR](/resetpassword): No description available
